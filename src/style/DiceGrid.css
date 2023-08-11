@@ -1,0 +1,81 @@
+.dice-container {
+    background-color: rgb(150, 236, 239);
+    text-align: center;
+    padding: 5px;
+  }
+  
+  .dice-container button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(calc(33.33% - 20px), 1fr)); /* Responsive columns */
+    grid-auto-rows: 1fr; /* Fixed row height */
+    gap: 5px;
+    margin-top: 10px;
+    max-width: 1000px; /* Optional: Add a max-width to prevent excessive spreading on large screens */
+    margin: 0 auto; /* Optional: Center the grid horizontally */
+  }
+  
+  .image-grid-item {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+  }
+  
+  .image-grid-item img {
+    width: 70%;
+    height: 80%;
+    object-fit: cover;
+    max-width: 90%;
+  }
+  
+  
+  @keyframes roll {
+    0%, 100% {
+      transform: rotate(0deg);
+    }
+    25% {
+      transform: rotate(90deg);
+    }
+    50% {
+      transform: rotate(180deg);
+    }
+    75% {
+      transform: rotate(270deg);
+    }
+    100% {
+        transform: rotate(360deg);
+      }
+  }
+  
+  .rolling img {
+    animation: roll 1.5s ease-in-out;
+  }
+  
+  
+  .welcome-message-container {
+    animation: fadeIn 1.5s ease-in-out;
+  }
+  
+  .welcome-message {
+    margin-top: 50px;
+    font-size: 10rem;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
