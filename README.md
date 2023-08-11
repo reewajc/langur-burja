@@ -1,70 +1,11 @@
-# Getting Started with Create React App
+# Langur Burja App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### "Langur Burja," a traditional Nepalese dice game, carries with it the spirit of camaraderie, chance, and excitement. Rooted in the heart of Nepalese culture, it emerges as a thrilling diversion primarily during festive times like Dashain and Tihar. This centuries-old game, akin to the British classic "Crown and Anchor," showcases subtle distinctions that lend it a unique charm.
 
-## Available Scripts
+### At its core, Langur Burja unites players and the house in an exhilarating dance of luck and strategy. The canvas or felt mat, adorned with the symbols of langur, burja, diamond (eet), spade (surat), club (chidi), and heart (paan), serves as the stage for this captivating spectacle.
 
-In the project directory, you can run:
+### As the game unfolds, a player places wagers on chosen symbols, each representing a potential victory. With a sense of anticipation, the three dice are cast, a gesture that encapsulates the hopes and aspirations of both player and house. The enchantment lies in the alignment of fate, as the symbols on two or more dice decide the fortunes of the game.
 
-### `npm start`
+### When destiny smiles upon the player, and the dice reveal a harmonious symphony of symbols, the house rewards their insight. Payouts are a celebration of skill and intuition, as the player is granted their stake multiplied by the number of dice showcasing the chosen symbol. Yet, the capricious nature of the dice also bestows moments of quiet reflection, when hopes are not realized, and the house retains its share.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### In the tapestry of Langur Burja, intrigue and delight are woven together, creating a dynamic experience that captivates hearts and ignites the spirit of competition. The game's allure is its unpredictable nature, inviting players to embrace the thrill of uncertainty and relish in the joy of camaraderie.With each roll of the dice, Langur Burja commemorates a cultural legacy that transcends time. It is a testament to the Nepalese spirit, a reminder of the ancient traditions that continue to resonate in modern times. As friends gather around to play, they not only honor tradition but also craft enduring memories that echo through generations.
